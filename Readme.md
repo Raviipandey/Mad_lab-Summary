@@ -9,3 +9,4 @@
 | 005 | Firebase Authentication Service | [Link](https://github.com/Raviipandey/Mad_Exp05) | [Link] | [Link] |
 | 006 | Routes and Consume API | [Link](https://github.com/Raviipandey/Mad_Exp06) | [Link] | [Link] |
 | 007 | Navigation Drawer | [Link](https://github.com/Raviipandey/Mad_Exp07) | [Link] | [Link] |
+| Mini Proj | CricMate | https://github.com/Raviipandey/CricMate
