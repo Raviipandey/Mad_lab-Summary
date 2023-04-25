@@ -1,5 +1,3 @@
-# Programs
-
 | Exp No. | Exp name | Repo link (Ravi) | Repo link (Jasmit) | Repo link (Simar) |
 | --- | --- | --- | --- | --- |
 | 001 | First Flutter App | [Link](https://github.com/Raviipandey/Mad_Exp01) | [Link](https://github.com/jasmit21/mad_exp01) | [Link](https://github.com/simarkaur28/mad_pwa_01.git) |
@@ -9,4 +7,5 @@
 | 005 | Firebase Authentication Service | [Link](https://github.com/Raviipandey/Mad_Exp05) | [Link] | [Link] |
 | 006 | Routes and Consume API | [Link](https://github.com/Raviipandey/Mad_Exp06) | [Link] | [Link] |
 | 007 | Navigation Drawer | [Link](https://github.com/Raviipandey/Mad_Exp07) | [Link] | [Link] |
-| Mini Proj | CricMate | https://github.com/Raviipandey/CricMate |
+| Mini Proj | CricMate | [Link](https://github.com/Raviipandey/CricMate) | [Link](https://github.com/jasmit21/CricMate) | [Link](https://github.com/simarkaur28/CricMate) |
+
